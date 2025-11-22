@@ -43,3 +43,9 @@ void loop() {
 ```
 6. Conectamos la tarjeta de adquisicion de datos junto con el DHT-11 como se muestra en la siguiente imagen
 
+![](https://github.com/raul7ops-sketch/Reporte-2-Sensor-DHT-22/blob/main/Conexion%20reporte%202.png?raw=true)
+
+7. Por ultimo le presionamos en el boton de ```Play``` para correr el simulador.
+8. Analizar y variar la temperatura anasalizando el monitor serial del simulador.
+
+## Resultados y conclusion

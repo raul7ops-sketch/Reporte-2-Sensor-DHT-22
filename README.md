@@ -20,7 +20,6 @@
 5. Al terminar copiamos y agregamos el siguiente codigo:
 
 ```#include "DHTesp.h"
-#include <LiquidCrystal_I2C.h>
 
 const int DHT_PIN = 15;
 DHTesp dhtSensor;

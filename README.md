@@ -49,3 +49,11 @@ void loop() {
 8. Analizar y variar la temperatura anasalizando el monitor serial del simulador.
 
 ## Resultados y conclusion
+Si realizamos paso a paso las instrucciones de este reporte el simulador trabajara de la siguiente manera:
+
+![](https://github.com/raul7ops-sketch/Reporte-2-Sensor-DHT-22/blob/main/Imagen%20final%20de%20reporte%202.png?raw=true)
+
+Donde a mano izquierda tendremos el codigo que introdujimos en el simulador (el codigo antes copiado en este reporte) a mano derecha veremos las conexiones realizadas de la tarjeta de adquiscion de datos y el sensor de temperatura DHT-11, tambien justo abajo veremos el monitor serial que ira mostrando los valores de temperatura y humeda solicitados.
+
+# Creditos
+Este reporte fue realizado por Raul Aguilar Lagunas.

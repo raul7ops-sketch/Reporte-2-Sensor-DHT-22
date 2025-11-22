@@ -12,3 +12,4 @@
 1. Abrir y entrar en la plataforma ```WOKWI```.
 2. Una vez habierto seleccionara la opcion  ```ESP 22 ```
 ![](https://github.com/raul7ops-sketch/Reporte-2-Sensor-DHT-22/blob/main/Reporte%201%20esp%2022.png?raw=true)
+3. Una vez dentro seleccionaremos la libreria  ```DHT sensor library for ESPx```
